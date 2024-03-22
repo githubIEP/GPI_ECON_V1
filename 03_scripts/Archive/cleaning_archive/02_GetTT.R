@@ -1,0 +1,1 @@
+##### ----- Get TT data from the database and exclude variables
